@@ -12,7 +12,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/html5-yangking?style=plastic&logo=html5&color=%23000000)
+![Static Badge](https://img.shields.io/badge/css3-yangking?style=plastic&logo=css3&color=%23000000)
+![Static Badge](https://img.shields.io/badge/react-yangking?style=plastic&logo=react&color=%23000000)
+![Static Badge](https://img.shields.io/badge/vuedotjs-yangking?style=plastic&logo=vuedotjs&color=%23000000)
+![Static Badge](https://img.shields.io/badge/electron-yangking?style=plastic&logo=electron&color=%23000000)
+![Static Badge](https://img.shields.io/badge/go-yangking?style=plastic&logo=go&color=%23000000)
+
 
 
 
