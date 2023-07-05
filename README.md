@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
 
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
+
 <!--
 **yangkingg/yangkingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
